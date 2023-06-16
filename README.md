@@ -1,4 +1,4 @@
+# Tic-Tac-Toe-AI
 
-<span style="color: green"> # Tic-Tac-Toe-AI </span>
+A simple AI made using Monte Carlo Search Tree Algorithm in Python3.
 
-Monte Carlo Search Tree Algorithm
