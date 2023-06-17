@@ -7,4 +7,6 @@ Added UI using PyGame Library
 Updated AI functions for slightly faster iteration 
 
 
-<img width="302" alt="AI_Win" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/b74a1055-7dd4-42d1-a36a-b753211828e8">
+<img width="302" alt="AI_Win" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/b74a1055-7dd4-42d1-a36a-b753211828e8"> 
+
+<img width="303" alt="Human_Win" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/2e66d289-9947-40ad-a47d-642df6ad084c">
