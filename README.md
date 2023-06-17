@@ -7,6 +7,5 @@
 - Updated AI functions for slightly faster iteration 
 
 
-<img width="302" alt="AI_Win" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/b74a1055-7dd4-42d1-a36a-b753211828e8"> 
-
-<img width="303" alt="Human_Win" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/2e66d289-9947-40ad-a47d-642df6ad084c">
+<img width="301" alt="Screen Shot 2023-06-17 at 12 30 27 AM" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/344aa9e2-cce3-41b2-aba7-475317bb4704">
+<img width="302" alt="Screen Shot 2023-06-17 at 12 30 08 AM" src="https://github.com/NitishGupta2306/Tic-Tac-Toe-AI/assets/76141111/5fc540e6-94ae-4807-b130-92782e5c5c92">
